@@ -1,8 +1,7 @@
 
-# 📌 GitHub Daily Reminder
+# 📌 Daily Reminder
 
-A simple Python desktop reminder app that asks:  
-**_"Did you commit to GitHub today?"_**
+A simple Python desktop reminder app
 
 It includes a user-friendly popup with two options:
 - ✅ **Done** — marks the reminder as completed for the day.
