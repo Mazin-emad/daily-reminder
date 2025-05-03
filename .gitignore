@@ -1,0 +1,13 @@
+reminder-env/
+
+__pycache__/
+*.pyc
+
+dist/
+build/
+
+.vscode/
+
+.env
+
+*.spec
